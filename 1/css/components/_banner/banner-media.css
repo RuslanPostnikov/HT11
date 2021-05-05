@@ -1,0 +1,13 @@
+@media (max-width: 767px) {
+    .banner .phone { display: none }
+    
+
+    .basket-text {
+        width: 100%;
+    }
+
+    .banner .banner-wrapper {
+        width: 100%;
+        justify-content: center;
+    }
+}

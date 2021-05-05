@@ -1,0 +1,20 @@
+.shopcart {
+    padding: 20px 0;
+}
+
+
+.shopcart-wrapper {
+    display: flex;
+    } 
+
+.shopcart-wrapper div {
+    width: 50%;
+}
+
+.shopcart-wrapper div:last-child {
+    padding: 0 50px;
+}
+
+.shopcart-wrapper div p {
+    line-height: 2;
+}

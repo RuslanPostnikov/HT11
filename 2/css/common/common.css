@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header div nav ul p li main footer {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 990px;
+    margin: 0 auto;
+    padding: 0 15px;
+}

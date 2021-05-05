@@ -1,0 +1,37 @@
+.first-article  {
+    padding: 35px 0 75px 0;
+        }
+
+.first-article h2 {
+    margin-top: 0;
+}
+
+.first-article p:last-child {
+    margin-bottom: 0;
+}
+
+.second-article h3 {
+    margin-top: 0;
+}
+
+.second-article p {
+    margin-bottom: 0;
+}
+
+.first-article .date {
+    font-weight: bold;
+    }
+
+    .second-article {
+        padding-bottom: 50px;
+    }
+
+.second-article h3 {
+    color: #40687b;
+    border-bottom: var(--border);
+}
+
+.second-article a {
+    text-decoration: var(--a-text-decoration);
+    color: var(--a-color);
+}

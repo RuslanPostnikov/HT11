@@ -1,0 +1,11 @@
+@media (max-width: 767px) {
+    .cart {
+        padding-left: 20px;
+    }
+    
+    .shopcart-wrapper .basket { display: none }
+
+    .shopcart-wrapper div {
+        width: 100%;
+    }
+}
